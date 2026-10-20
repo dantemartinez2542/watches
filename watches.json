@@ -1,0 +1,72 @@
+[
+  {
+    "name": "F-91W",
+    "price": 22.95,
+    "brand": "Casio",
+    "year": 2020,
+    "movement": "unknown"
+  },
+  {
+    "name": "G-Shock DW-5600E",
+    "price": 74.99,
+    "brand": "Casio",
+    "year": 2021,
+    "movement": "unknown"
+  },
+  {
+    "name": "5 Sports SRPD55",
+    "price": 295.00,
+    "brand": "Seiko",
+    "year": 2022,
+    "movement": "4R36"
+  },
+  {
+    "name": "5 Sports SRPK29",
+    "price": 325.00,
+    "brand": "Seiko",
+    "year": 2023,
+    "movement": "4R36"
+  },
+  {
+    "name": "Tsuyosa NJ0150-56A",
+    "price": 450.00,
+    "brand": "Citizen",
+    "year": 2024,
+    "movement": "8210"
+  },
+  {
+    "name": "Kamasu RA-AA0004E39B",
+    "price": 279.99,
+    "brand": "Orient",
+    "year": 2021,
+    "movement": "F6922"
+  },
+  {
+    "name": "PRX Powermatic 80 T1374071135100",
+    "price": 725.00,
+    "brand": "Tissot",
+    "year": 2024,
+    "movement": "Powermatic 80"
+  },
+  {
+    "name": "Weekender",
+    "price": 49.99,
+    "brand": "Timex",
+    "year": 2018,
+    "movement": "unknown"
+  },
+  {
+    "name": "Expedition Scout",
+    "price": 64.50,
+    "brand": "Timex",
+    "year": 2019,
+    "movement": "unknown"
+  },
+  {
+    "name": "Classic Sheffield",
+    "price": 169.00,
+    "brand": "Daniel Wellington",
+    "year": 2022,
+    "movement": "unknown"
+  }
+]
